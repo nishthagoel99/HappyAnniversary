@@ -1,0 +1,67 @@
+#nextbutton{
+-fx-background-color:linear-gradient(#AAE1E0,#206361);
+-fx-font-color:#181614;
+}
+#pane{
+-fx-background-image:url("background_image1.jpg");
+-fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-image-opacity:0.5;
+    -fx-background-position: center center;
+}
+
+#scene2{
+-fx-background-image:url("1999.jpg");
+-fx-background-repeat: stretch;
+    -fx-background-size: 1000 700;
+    -fx-background-position: center center;
+    }
+#scene3{
+-fx-background-image:url("background_image2.jpg");
+-fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-image-opacity:0.5;
+}
+#scene4{
+-fx-background-image:url("2003.jpg");
+-fx-background-repeat: stretch;
+    -fx-background-size: 1000 700;
+    -fx-background-position: center center;
+}
+#scene5{
+-fx-background-image:url("2006.jpg");
+-fx-background-repeat: stretch;
+    -fx-background-size: 1000 700;
+    -fx-background-position: center center;
+}
+#scene6{
+-fx-background-image:url("2009.jpg");
+-fx-background-repeat: stretch;
+    -fx-background-size: 1000 700;
+    -fx-background-position: center center;}
+
+#scene7{
+-fx-background-image:url("2011.jpg");
+-fx-background-repeat: stretch;
+    -fx-background-size: 1000 700;
+    -fx-background-position: center center;}
+
+    #scene8{
+    -fx-background-image:url("2013.jpg");
+    -fx-background-repeat: stretch;
+        -fx-background-size: 1000 700;
+        -fx-background-position: center center;
+    }
+    #scene9{
+    -fx-background-image:url("2015.jpg");
+    -fx-background-repeat: stretch;
+        -fx-background-size: 1000 700;
+        -fx-background-position: center center;}
+
+        #scene10{
+          -fx-background-image:url("nish.jpg");
+            -fx-background-repeat: stretch;
+                -fx-background-size: 1000 700;
+                -fx-background-position: center center;}
+
+        }
